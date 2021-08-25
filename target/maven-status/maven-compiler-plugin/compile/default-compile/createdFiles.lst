@@ -1,0 +1,8 @@
+com\fpt\entity\NewEntity.class
+com\fpt\dto\NewDTO.class
+com\fpt\entity\UserEntity.class
+com\fpt\api\NewAPI.class
+com\fpt\entity\CategoryEntity.class
+com\fpt\Application.class
+com\fpt\entity\RoleEntity.class
+com\fpt\entity\BaseEntity.class
